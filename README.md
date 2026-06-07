@@ -10,3 +10,5 @@
 2. mysql database
 3. VS Code
 4. HTML dan CSS
+
+#### sistem ini masih ada celah keamanan karena password tidak dienkripsi, sistem ini dibangun guna memenuhi tugas matkul Teknologi Web.
